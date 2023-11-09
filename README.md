@@ -3,7 +3,7 @@ This section of my portfolio showcases a project entitled "Saving Cinema: Design
 
 As is likely evident, this repository is a work in progress. This is for two reasons:
 
-1. Our work on this project continues until the end of the 2023 calendar year.
+1. Our work on this project will continue until the end of the 2023 calendar year.
 2. While this project was a team effort, I am in the process of reviewing and editing all code for efficiency and clarity, tailoring it to suit the standards of my personal portfolio. The collaborative nature of the project led to several re-iterations of our work, resulting in duplicative, scattered, and at times disorganized work. The original repository for reference can be found here:
 
 ### Brief Project Overview
