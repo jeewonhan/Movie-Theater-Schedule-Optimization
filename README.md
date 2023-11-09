@@ -9,7 +9,7 @@ As is likely evident, this repository is a work in progress. This is for two rea
 ### Brief Project Overview
 In the wake of the COVID-19 pandemic, the movie theater industry has grappled with significant financial setbacks, experiencing an 82% decrease in box office revenues from 2018 to 2019. Despite showing some signs of recovery, the projected box office for 2023 remains below pre-pandemic levels, prompting the business question for this project: "How can a movie theater company create the most profitable showing schedule for its theaters?" The primary objective is to construct a predictive model leveraging movie metadata, sourced from *TMDB*, *Box Office Mojo*, and other sources to predict box office revenue. This model aims to guide strategic decisions on showing schedule optimization by employing careful feature engineering and various techniques such as k-means clustering, spectral embedding, Bayesian imputation, and more.
 
-Additional information about the project's motivation, data sources, and modeling processes can be found in the Project Proposal and Data Preparation Report in 0. Deliverables. 
+Additional information about the project's motivation, data sources, and modeling processes can be found in the Project Proposal and Data Preparation Report in [0. Deliverables](https://github.com/jeewonhan/Movie-Theater-Schedule-Optimization/tree/main/0.%20Deliverables). 
 
 ## Organization
 Thus far, the project can be organized into 3 sections in accordance with the CRISP-DM model:
