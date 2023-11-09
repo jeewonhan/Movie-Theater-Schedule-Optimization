@@ -1,5 +1,5 @@
 ## Introduction
-This section of my portfolio showcases a project entitled "Saving Cinema: Designing Movie Theater Showing Schedules." This data mining project adheres to the CRISP-DM Model and was completed as part of EN.553.602: Research and Design in Applied Mathematics: Data Mining at The Johns Hopkins Univerisity in the Fall of 2023. The work was carried out under the mentorship of Drew Henrichsen, alongside collaborators Lucas Rozendaal, Sam Oberly, Jay Lawrence, and Jillayne Clarke.
+This section of my portfolio showcases a project entitled "Saving Cinema: Designing Movie Theater Showing Schedules." This data mining project adheres to the CRISP-DM Model and was completed as part of EN.553.602: Research and Design in Applied Mathematics: Data Mining at The Johns Hopkins University in the Fall of 2023. The work was carried out under the mentorship of Drew Henrichsen, alongside collaborators Lucas Rozendaal, Sam Oberly, Jay Lawrence, and Jillayne Clarke.
 
 As is likely evident, this repository is a work in progress. This is for two reasons:
 
