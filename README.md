@@ -25,4 +25,4 @@ Other than the edits made to code as outlined in the Introduction, my key contri
 
 - 0. Deliverables: Primary author and editor on the Project Proposal and Data Preparation Report.
 - 2.1. Collect Initial Data: TMDB Movie Details API Call
-- 3.3. Construct Data: Genre Clustering by Jaccard Similarity
+- 3.3. Construct Data: Genre Clustering Using Jaccard Similarity and Spectral Embedding
